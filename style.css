@@ -1,0 +1,26 @@
+body {
+    background: fefefe;
+}
+
+h2 {
+    color: #1460aa;
+}   
+
+p {
+    color: teal;
+}
+
+.header-main{
+    color: brown;
+}
+
+.header-section{
+    color: green;
+}
+.header {
+    background: #c9c6c6;
+}
+
+a {
+    color: rgb(177, 140, 71);
+}
